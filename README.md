@@ -1,2 +1,2 @@
 # Machine_learning
-machine Learning  all implementation 
+machine Learning Algorithm all implementation 
